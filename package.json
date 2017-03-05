@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keystonejs/keystone-email.git"
+    "url": "git+https://github.com/dannyshaw/keystone-email.git"
   },
   "keywords": [
     "email",
